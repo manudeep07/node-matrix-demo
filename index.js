@@ -16,6 +16,7 @@ function divide(a, b) {
   }
   return a / b;
 }
+console.log("Calculator module loaded successfully.");
 
 module.exports = {
   add,
