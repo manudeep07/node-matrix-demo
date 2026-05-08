@@ -1,0 +1,19 @@
+{
+  "name": "matrix-demo",
+  "version": "1.0.0",
+  "description": "A simple Node.js project to demonstrate GitHub Actions matrix testing across Node.js 16, 18, and 20.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "github-actions",
+    "ci",
+    "matrix",
+    "nodejs"
+  ],
+  "author": "Alok Misra",
+  "license": "MIT",
+  "type": "commonjs"
+}
